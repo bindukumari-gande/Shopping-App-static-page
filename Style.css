@@ -1,0 +1,203 @@
+ .head-text{
+    width:500px;
+ font-size:larger;
+ }
+
+ #navbarDropdown{
+   color:red;
+ }
+   
+ 
+
+ .demo{
+   margin-top:250px;
+   font-family: Arial, Helvetica, sans-serif;
+   
+} 
+.navbar-brand{
+    border-style: solid solid solid solid ;
+    margin-left:100px;
+    font-weight:bold;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.card{
+    margin-left:100px;
+ margin-bottom: 150px;
+    height: 250px;
+    margin-top: 5px;
+
+}
+
+
+
+#star{
+    margin-left:100px;
+   
+    height: 250px;
+}
+
+#star1{
+    margin-left:100px; 
+    height: 250px;
+}
+
+#star2{
+    margin-left:100px;
+   
+    height: 250px;
+}
+
+
+
+#star5{
+    margin-left:100px;
+   
+    height: 250px;
+} 
+
+.container3{
+    
+    
+}
+
+#demo1{
+    margin-right:100px;
+    margin-left:100px
+  
+}
+
+#demo2{
+    text-align:center;
+    
+}
+
+#style{
+    margin-left:700px;
+   
+    
+}
+.yellow-star{
+    color:yellow;
+}
+
+
+/* footer */
+.header-text1{
+    font-family:"Montserrat", sans-serif;
+    text-align: center;
+}
+
+.myImage{
+    width: 78%;
+    height: 600px;
+    margin-left: 10%;
+}
+ 
+
+.myImage1{
+    width: 400px;
+    height: 200px;
+}
+
+.header{
+    margin-top: 250px;
+}
+
+.header-text{
+    color: black;
+    font-family: "Roboto Slab", serif;
+   text-transform: uppercase;
+   font-size: 60px;
+   text-align: center;
+}
+
+
+#button{
+    margin-left: 40%;
+ }
+
+ .alink{
+    text-decoration: none;
+    color: black;
+}
+.alink:hover{
+    color: red;
+}
+
+
+
+/* 2nd division */
+
+
+.text-heading{
+    text-align: left;
+    font-family:"Roboto Slab", serif;
+    margin-top: 10%;
+   font-size: 50px;
+}
+ 
+.full-height{
+    height: auto;
+    width: 500px;
+    padding: 10px;
+    position: relative;
+}
+ 
+.full-height .btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+ 
+.sm-height{
+    width: 300px;
+    border-color: grey ;
+    border-radius:  17px;
+    padding: 10px;
+    position: relative;
+}
+ 
+.sm-height .btn{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 0px;
+ 
+}
+
+
+.vertical-line {
+    width: 5px;
+    height: 120px;
+    background-color: red;
+    margin-left: 2%;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
